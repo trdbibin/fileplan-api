@@ -1,0 +1,1 @@
+INSERT INTO file_plan (name, description) VALUES ('HR Plan', 'Human Resources');
